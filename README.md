@@ -17,10 +17,11 @@ Roadmap for Penn State Open Science initiatives.
 
 #### December
 
-- Get IRB approval for survey (Gilmore)
-- Goals (Hillary)
-- Name?
-    - C-ORR
+- [x] ~~Submit updated [IRB application](https://penn-state-open-science.github.io/survey-fall-2022/hrp-591.html) (Gilmore)~~.
+- [ ] Draft project goals (Hillary)
+- [ ] Decide on name
+    - [x] ~~Circulate possible names for voting (Gilmore first, then all)~~
+    - [ ] Vote on name.
 
 ### 2023
 
