@@ -32,6 +32,8 @@ Roadmap for Penn State Open Science initiatives.
 
 ##### January
 
+- [2023-01-11 meeting](meetings.md)
+- Support NSF center grant submission by Ed O'Brien.
 - Draft and submit application to PSU Libraries for grad fellowship support, **due January 13, 2023**.
     - Wham circulate call
 - Deploy, analyze, and report on [survey](https://github.com/penn-state-open-science/survey-fall-2022).
