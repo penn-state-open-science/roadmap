@@ -29,6 +29,7 @@ Roadmap for Penn State Open Science initiatives.
 
 - Penn State Data Management policy roll-out (TBD)
 - Research Data Librarian search
+- Identify and coordinate with Penn State contact for [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](https://www.heliosopen.org)
 
 ##### January
 

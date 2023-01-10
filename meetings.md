@@ -2,8 +2,10 @@
 
 ## 2023-01-11 Wednesday
 
+Attending: Nicole Lazar, Briana Wham, Rick Gilmore
+
 1. Old business
-  - Project goals draft (Frank)
+  - ~Project goals draft (Frank)~
   - Suggest and vote on preferred names (all; see below)
 2. New business
   - Edit survey draft or not based on comments from James LeBreton (all).
