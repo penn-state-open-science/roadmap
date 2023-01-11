@@ -27,14 +27,15 @@ Roadmap for Penn State Open Science initiatives.
 
 #### Spring
 
-- Penn State Data Management policy roll-out (TBD)
-- Research Data Librarian search
+- Penn State Data Management policy roll-out (TBD, Town Halls probably March)
+- Research Data Librarian search, posted soon
 - Identify and coordinate with Penn State contact for [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](https://www.heliosopen.org)
+- Get PSU as an institutional member in Software/Data Carpentries organization
 
 ##### January
 
 - [2023-01-11 meeting](meetings.md)
-- Support NSF center grant submission by Ed O'Brien.
+- Support NSF center grant pre-proposal submission by Ed O'Brien.
 - Draft and submit application to PSU Libraries for grad fellowship support, **due January 13, 2023**.
     - Wham circulate call
 - Deploy, analyze, and report on [survey](https://github.com/penn-state-open-science/survey-fall-2022).
@@ -42,11 +43,12 @@ Roadmap for Penn State Open Science initiatives.
 - [PSYCH 490](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring/) begins.
 - Coordinated communication with research deans re: NIH Data Management Plan start?
     - Wham chairing committee
+    - Webinars occurring later in January
 - January 17-19, 2023, "Curate-a-thon" genetic sequence data
 
 ##### February
 
-- February 8, 2023 (Lazar), Best practices in data and analysis in archaeology.
+- February 8, 2023 (Lazar), Talk on best practices in data and analysis in archaeology.
 - February 9, 2023, 11:00 AM (Wham), SARI, Data management and reproducibility best practices.
 - February 13-17, 2023, Penn State Libraries' participation in International "[Love Data Week](https://www.icpsr.umich.edu/web/about/cms/1576)",  
     - Theme: Agents of change
@@ -73,6 +75,9 @@ Roadmap for Penn State Open Science initiatives.
 - "Open" week (see [2022 event](https://www.psu.edu/news/research/story/university-libraries-host-virtual-open-access-week-panel-climate-justice/) on climate research)
 
 ### 2024
+
+- Penn State "Journal on Open Science"
+- Open science initiatives at the U.S. Government: <https://open.science.gov>, <https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/>
 
 #### Spring
 
