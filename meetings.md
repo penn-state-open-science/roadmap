@@ -8,12 +8,13 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary
 
 1. Old business
   - Review [roadmap](README.md)
-  - Project goals draft (Frank)
+  - Project goals draft (Hillary)
   - ~~Center name (All)~~: Defer until all are present
 2. New business
   - Review [survey results](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)
     - CLA and College of Ed have/are responding.
     - Action items, follow-up?
+  - [R Bootcamp](https://github.com/psu-psychology/r-bootcamp-2019) rebooted? (Gilmore)
   
 ## 2023-01-11 Wednesday
 

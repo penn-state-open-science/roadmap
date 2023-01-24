@@ -25,7 +25,8 @@ Roadmap for Penn State Open Science initiatives.
 
 ### 2023
 
-- [NASA's Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html) 
+- [NASA's Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html)
+- Reboot [R Bootcamp](https://github.com/psu-psychology/r-bootcamp-2019) (Psychology + HDFS + ??)
 
 #### Spring
 
@@ -47,6 +48,8 @@ Roadmap for Penn State Open Science initiatives.
     - Wham chairing committee
     - Webinars occurring later in January
 - January 17-19, 2023, "Curate-a-thon" genetic sequence data
+- [2023-01-25 meeting](meetings.md)
+- January 30, 2023, 3:00 PM (Gilmore), Research Computing and Cyber-Infrastructure (RCCI) Research Data Working Group
 
 ##### February
 
