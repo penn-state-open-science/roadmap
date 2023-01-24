@@ -25,12 +25,14 @@ Roadmap for Penn State Open Science initiatives.
 
 ### 2023
 
+- [NASA's Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html) 
+
 #### Spring
 
 - Penn State Data Management policy roll-out (TBD, Town Halls probably March)
 - Research Data Librarian search, posted soon
 - Identify and coordinate with Penn State contact for [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](https://www.heliosopen.org)
-- Get PSU as an institutional member in Software/Data Carpentries organization
+- Get PSU as an institutional member in Software/Data Carpentries organization (Briana)
 
 ##### January
 
@@ -48,6 +50,7 @@ Roadmap for Penn State Open Science initiatives.
 
 ##### February
 
+- February 1, 2023 (Gilmore), [Talk](https://gilmore-lab.github.io/2023-02-01-nyu-steinhardt) to graduate students at NYU Steinhardt Department of Applied Psychology.
 - February 8, 2023 (Lazar), Talk on best practices in data and analysis in archaeology.
 - February 9, 2023, 11:00 AM (Wham), SARI, Data management and reproducibility best practices.
 - February 13-17, 2023, Penn State Libraries' participation in International "[Love Data Week](https://www.icpsr.umich.edu/web/about/cms/1576)",  
@@ -59,7 +62,7 @@ Roadmap for Penn State Open Science initiatives.
 
 #### March
 
-- Wednesday, March 1, 2023, 12:00 PM - 1:00 PM, "Sharing video and image data", presentation in SARI. 
+- Wednesday, March 1, 2023, 12:00 PM - 1:00 PM (Gilmore), "Sharing video and image data", presentation in SARI. 
     - Hillary does SARI training in Psychology for 1st and 2nd year students.
 
 #### Summer

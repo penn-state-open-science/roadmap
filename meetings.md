@@ -1,5 +1,20 @@
 # Meeting agendas
 
+## 2023-01-25 Wednesday
+
+### Agenda
+
+Expected: Briana Wham, Rick Gilmore, Frank Hillary
+
+1. Old business
+  - Review [roadmap](README.md)
+  - Project goals draft (Frank)
+  - ~~Center name (All)~~: Defer until all are present
+2. New business
+  - Review [survey results](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)
+    - CLA and College of Ed have/are responding.
+    - Action items, follow-up?
+  
 ## 2023-01-11 Wednesday
 
 ### Agenda
@@ -8,7 +23,7 @@ Attending: Nicole Lazar, Briana Wham, Rick Gilmore
 
 1. Old business
   - Review [roadmap](README.md)
-  - ~Project goals draft (Frank)~
+  - ~~Project goals draft (Frank)~~
   - Suggest and vote on preferred names (all; see below)
       - Center for Open, Transparent, and Reproducible Research (C-OTRR)
       - Initiative for Open, Transparent, and Reproducible Research (I-OTTR)
