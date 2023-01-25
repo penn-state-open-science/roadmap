@@ -13,6 +13,10 @@ Roadmap for Penn State Open Science initiatives.
 
 ## Timeframes
 
+### Anytime
+
+- Compare Springer Nature [survey data](https://penn-state-open-science.github.io/springer-nature-survey/) on needs for data curation and storage services with internal survey responses.
+
 ### 2022
 
 #### December
