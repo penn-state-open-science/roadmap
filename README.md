@@ -60,7 +60,7 @@ Roadmap for Penn State Open Science initiatives.
 - February 1, 2023 (Gilmore), [Talk](https://gilmore-lab.github.io/2023-02-01-nyu-steinhardt) to graduate students at NYU Steinhardt Department of Applied Psychology.
 - February 8, 2023 (Lazar), Talk on best practices in data and analysis in archaeology.
 - February 9, 2023, 11:00 AM (Wham), SARI, Data management and reproducibility best practices.
-- February 13-17, 2023, Penn State Libraries' participation in International "[Love Data Week](https://www.icpsr.umich.edu/web/about/cms/1576)",  
+- February 13-17, 2023, Penn State Libraries' participation in International "[Love Data Week](https://www.icpsr.umich.edu/web/about/cms/1576)",
     - Theme: Agents of change
     - Join table in library
     - Promote, collect survey data
@@ -71,6 +71,7 @@ Roadmap for Penn State Open Science initiatives.
 
 - Wednesday, March 1, 2023, 12:00 PM - 1:00 PM (Gilmore), "Sharing video and image data", presentation in SARI. 
     - Hillary does SARI training in Psychology for 1st and 2nd year students.
+- Center for Open Science (CoS) [Unconference 2023](https://www.cos.io/unconference): Open Scholarship Practices in Education Research.
 
 #### Summer
 

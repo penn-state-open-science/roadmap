@@ -1,6 +1,27 @@
 # Meeting agendas
 
-## 2023-01-25 Wednesday
+## 2023-02-08 Wednesday
+
+### Agenda
+
+Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar
+
+1. Old business
+  - Reports (all)
+  - Review [roadmap](README.md)
+  - Project goals draft (Hillary)
+  - Center name (All)
+2. New business
+  - Review [survey results](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)
+    - CLA and College of Ed have/are responding.
+    - Action items, follow-up?
+  - [R Bootcamp](https://github.com/psu-psychology/r-bootcamp-2019) rebooted? (Gilmore)
+  
+---
+
+## ~~2023-01-25 Wednesday~~
+
+**MEETING CANCELLED**
 
 ### Agenda
 
@@ -15,6 +36,8 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary
     - CLA and College of Ed have/are responding.
     - Action items, follow-up?
   - [R Bootcamp](https://github.com/psu-psychology/r-bootcamp-2019) rebooted? (Gilmore)
+  
+---
   
 ## 2023-01-11 Wednesday
 
