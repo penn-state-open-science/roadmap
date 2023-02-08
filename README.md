@@ -64,7 +64,6 @@ Roadmap for Penn State Open Science initiatives.
     - Theme: Agents of change
     - Join table in library
     - Promote, collect survey data
-    - Speaker? (Spies, Tim Errington @ COS; Hadley Wickham)
 - Friday, February 17, 2023, 9:30 AM - 11:30 AM, location TBD, Child Study Center's Open Data & Developmental Science (ODDS) initiative meeting.
 
 #### March
