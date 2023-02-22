@@ -10,7 +10,8 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar
   - [Article](https://stanforddaily.com/2023/02/17/internal-review-found-falsified-data-in-stanford-presidents-alzheimers-research-colleagues-allege/) about data fabrication accusations at Stanford.
   - Reports (all)
   - Review [roadmap](README.md)
-    - Report on Friday (2/17) CSC meeting (Nicole & Rick)
+    - Report on Friday (2/17) CSC meeting (Nicole & Rick).
+        - [Paper](http://dx.doi.org/10.1038/s41467-018-04976-1) by Milham et al. on impact of data sharing in brain imaging.
     - Report on "Love Data Week" (2/13-17) (Briana).
   - Update on project goals image draft (Frank & Briana)
     - [slides](https://docs.google.com/presentation/d/116Tl3tDfcpXunZsw73CNYZ6qKN8ODmrP/edit?pli=1#slide=id.p1) from Frank.
@@ -19,9 +20,13 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar
     - Still few or no responses from HHD or ECoS.
 2. New business
   - Open Science Bootcamp.
-    - We are pursuing a bootcamp, integrated with existing workshops, e.g., from [library](https://pennstateoffice365.sharepoint.com/sites/Fall2022-DataManagementResearchReproducibilityinRWorkshopSeries?e=1%3Ae9270d670d5d4d21b56146cfceffb363) and building on the Psychology/HHD [2019 version](](https://github.com/psu-psychology/r-bootcamp-2019).
+    - We are pursuing a bootcamp, integrated with existing workshops, e.g., from [library](https://pennstateoffice365.sharepoint.com/sites/Fall2022-DataManagementResearchReproducibilityinRWorkshopSeries?e=1%3Ae9270d670d5d4d21b56146cfceffb363) and building on the Psychology/HHD [2019 version](https://github.com/psu-psychology/r-bootcamp-2019).
     - CSC staff investigating sites for August 16-18 that permit food & meetings.
-  - Meet during Spring break (3/8) or punt until 3/22?   
+    - Library has Collaborative Commons that we should investigate.
+  - Meet during ~Spring Break (3/8)~ or ~punt until 3/22~?
+    - Moved 3/22 meeting to 3/15.
+    
+**Next meeting Wednesday, March 15, 2023 at 3:00 pm**
 
 ## 2023-02-08 Wednesday
 
