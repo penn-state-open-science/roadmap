@@ -7,6 +7,7 @@
 Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar
 
 1. Old business
+  - [Article](https://stanforddaily.com/2023/02/17/internal-review-found-falsified-data-in-stanford-presidents-alzheimers-research-colleagues-allege/) about data fabrication accusations at Stanford.
   - Reports (all)
   - Review [roadmap](README.md)
     - Report on Friday (2/17) CSC meeting (Nicole & Rick)
