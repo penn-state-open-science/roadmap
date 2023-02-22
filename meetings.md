@@ -17,8 +17,9 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar
   - Update on [survey results](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)
     - Still few or no responses from HHD or ECoS.
 2. New business
-  - [Open Science Bootcamp](https://github.com/psu-psychology/r-bootcamp-2019).
-    - We are pursuing a bootcamp, integrated with existing workshops, e.g., from [library](https://pennstateoffice365.sharepoint.com/sites/Fall2022-DataManagementResearchReproducibilityinRWorkshopSeries?e=1%3Ae9270d670d5d4d21b56146cfceffb363)
+<<<<<<< HEAD
+  - Open Science Bootcamp.
+    - We are pursuing a bootcamp, integrated with existing workshops, e.g., from [library](https://pennstateoffice365.sharepoint.com/sites/Fall2022-DataManagementResearchReproducibilityinRWorkshopSeries?e=1%3Ae9270d670d5d4d21b56146cfceffb363) and building on the Psychology/HHD [2019 version](](https://github.com/psu-psychology/r-bootcamp-2019).
     - CSC staff investigating sites for August 16-18 that permit food & meetings.
   - Meet during Spring break (3/8) or punt until 3/22?   
 
