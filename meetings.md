@@ -25,6 +25,7 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar
     - Library has Collaborative Commons that we should investigate.
   - Meet during ~Spring Break (3/8)~ or ~punt until 3/22~?
     - Moved 3/22 meeting to 3/15.
+  - Mentioned possibility of starting a journal on open science. This was also suggested in some conversations with Huck leadership. Here is a PSU resource: <https://openpublishing.psu.edu/journals>.
     
 **Next meeting Wednesday, March 15, 2023 at 3:00 pm**
 
