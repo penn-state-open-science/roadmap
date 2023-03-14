@@ -76,6 +76,10 @@ Roadmap for Penn State Open Science initiatives.
 
 - Organization for Human Brain Mapping (OHBM) symposium (possible, Hillary)
 
+##### August
+
+- August 16-18, 2023, Penn State Open Science Bootcamp
+
 #### Fall
 
 - Invited speaker/center kick-off (Nosek?; Berkeley or Stanford folks)

@@ -1,5 +1,35 @@
 # Meeting agendas
 
+## 2023-03-15 Wednesday, 3p
+
+Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pearce, Daisy Lei, Hollie Mullin
+
+1. Old business
+  - Reports (all)
+    - Introductions: Alaina Pearce, Daisy Lei, Hollie Mullin (Rick & Frank)
+    - Becoming a Center (Nicole)
+    - Frank
+    - Briana
+  - Open Science Bootcamp
+    - Logistics
+      - When: August 16-18, 2023
+      - Where: (75 capacity; permit food & drink)
+        - Pasqerilla/Eisenhower:
+          - 107 (Memorial Lounge)
+          - 122 Pod #1
+          - 124 Pod #2
+          - Frizzel A/B (Lower Level)
+        - [Marriott Foundation Buildin](https://www.gbbn.com/work/penn-state-oak-building) 
+        - Chambers 108 & 111 (Classrooms that won’t allow food.)
+    - Planning/Program Committee
+        - Who to invite?
+        - Composition?
+    - DOI for proceedings?
+  - Center name
+  - Survey [results](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)
+    - At least one response from ECoE.
+2. New business
+
 ## 2023-02-22 Wednesday
 
 ### Agenda
