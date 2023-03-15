@@ -8,6 +8,7 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pearce,
   - Reports (all)
     - Introductions: Alaina Pearce, Daisy Lei, Hollie Mullin (Rick & Frank)
     - Becoming a Center (Nicole)
+      - Will be developing and submitting a proposal soon. Nicole & Briana will take lead for now.
     - Frank
     - Briana
   - Open Science Bootcamp
@@ -19,16 +20,26 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pearce,
           - 122 Pod #1
           - 124 Pod #2
           - Frizzel A/B (Lower Level)
-        - [Marriott Foundation Buildin](https://www.gbbn.com/work/penn-state-oak-building) 
+        - [Marriott Foundation Building](https://www.gbbn.com/work/penn-state-oak-building) 
         - Chambers 108 & 111 (Classrooms that won’t allow food.)
+        - Agreed that 75 is fine as a cap, but want to offer remote option.
+          - Need to manage expectations about technical help if we offer hands-on sessions
     - Planning/Program Committee
         - Who to invite?
+          - Planning/program committee first then presenters
         - Composition?
+          - As broad a base of expertise as possible
     - DOI for proceedings?
+        - Possibly via Zenodo for GitHub repo
+        - Possibly via ScholarSphere for specific product
+        - Possibly via open publishing <https://openpublishing.psu.edu/journals>.
   - Center name
   - Survey [results](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)
     - At least one response from ECoE.
+    - Survey went out in newsletter 2023-03-13.
 2. New business
+
+**Next meeting March 22, 2023 3:00 PM on https://psu.zoom.us/my/rogilmore**
 
 ## 2023-02-22 Wednesday
 
