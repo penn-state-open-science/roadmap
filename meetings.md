@@ -1,5 +1,37 @@
 # Meeting agendas
 
+## 2023-03-22 Wednesday, 3p
+
+Expected: ~~Briana Wham~~, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pearce, ~~Daisy Lei~~, Hollie Mullin
+
+1. Old business
+  - Open Science Bootcamp
+    - August 9-11, 2023 in [Marriott Foundation Building](https://www.gbbn.com/work/penn-state-oak-building)
+    - Potential sponsors (beyond Psychology and CSC)
+      - College of Liberal Arts
+      - Huck Institutes
+      - SSRI
+      - ICDS
+      - College of HHD
+      - Eberly College of Science
+      - Department of Statistics
+      - University Libraries
+    - Resources
+      - Penn State University Libraries [curricula](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpennstateoffice365.sharepoint.com%2Fsites%2FFall2022-DataManagementResearchReproducibilityinRWorkshopSeries%3Fe%3D1%253A99c0b51866974f3586f0dd1c75ab063f&data=05%7C01%7Crog1%40psu.edu%7C371e1fc92b244df7d5c508db258bea12%7C7cf48d453ddb4389a9c1c115526eb52e%7C0%7C0%7C638145055092430501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BprsgnyxRmecGkkzYSwF%2Bf%2FIF1Kfqh%2BjMfK%2FiORYDZk%3D&reserved=0)
+      - 10-week workshop by [Cyverse](https://cyverse.org/foss)
+      - Open Science Workshop at [Free University of Berlin](https://www.fu-berlin.de/en/sites/open_access/termine/open_science_workshop.html)
+      - Various trainings from the [Carnegie Mellon University Library](https://www.library.cmu.edu/services/open-science).
+      - Center for Open and Reproducible Science [(CORES) at Stanford](https://datascience.stanford.edu/cores)
+        - Open by Design [web book](https://dsi-cores.github.io/OpenByDesign/README.html)
+      - NASA's [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science) initiative
+      - Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K. & McGillivray, B. (2020). The citation advantage of linking publications to research data. PloS One, 15(4), e0230416. https://doi.org/10.1371/journal.pone.0230416
+  - Community-building activities
+    - [ReproducibiliTEA](https://reproducibilitea.org/)
+    - [Open Science Alliance](https://openscialliance.github.io) Mon 9-10a EDT talks in March/April 2023
+    - Events [calendar](https://calendar.google.com/calendar/u/0?cid=MzhjOTEwYTgzNDMzZDNjNzViNGZmMzA3MmE2NGM4NTIzMjQ2YWZiYTczNzg1NjA5MWY1YzYyMWE0MzBiOGE1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+    - Slack/Discord/Teams
+  - Center application (Nicole & Briana)
+
 ## 2023-03-15 Wednesday, 3p
 
 Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pearce, Daisy Lei, Hollie Mullin
@@ -11,6 +43,8 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pearce,
       - Will be developing and submitting a proposal soon. Nicole & Briana will take lead for now.
     - Frank
     - Briana
+    - Rick
+        - BIDS-like initiative for psychological science data: <https://github.com/psych-ds/psych-DS>
   - Open Science Bootcamp
     - Logistics
       - When: August 16-18, 2023
@@ -27,12 +61,16 @@ Expected: Briana Wham, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pearce,
     - Planning/Program Committee
         - Who to invite?
           - Planning/program committee first then presenters
+          - Data management and reproducibility [workshops from PSU Libraries](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpennstateoffice365.sharepoint.com%2Fsites%2FFall2022-DataManagementResearchReproducibilityinRWorkshopSeries%3Fe%3D1%253A99c0b51866974f3586f0dd1c75ab063f&data=05%7C01%7Crog1%40psu.edu%7C371e1fc92b244df7d5c508db258bea12%7C7cf48d453ddb4389a9c1c115526eb52e%7C0%7C0%7C638145055092430501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BprsgnyxRmecGkkzYSwF%2Bf%2FIF1Kfqh%2BjMfK%2FiORYDZk%3D&reserved=0)
+          - Participants in [2022 open access event](https://www.psu.edu/news/research/story/university-libraries-host-virtual-open-access-week-panel-climate-justice/).
         - Composition?
           - As broad a base of expertise as possible
     - DOI for proceedings?
         - Possibly via Zenodo for GitHub repo
         - Possibly via ScholarSphere for specific product
         - Possibly via open publishing <https://openpublishing.psu.edu/journals>.
+    - Program elements
+        - Research other open science bootcamps or similar events (Rick)
   - Center name
   - Survey [results](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)
     - At least one response from ECoE.
