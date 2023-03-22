@@ -15,7 +15,9 @@ Expected: ~~Briana Wham~~, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pea
       - College of HHD
       - Eberly College of Science
       - Department of Statistics
+      - Department of Psychology
       - University Libraries
+      - Need 4x \$500 or 8x \$250
     - Resources
       - Penn State University Libraries [curricula](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpennstateoffice365.sharepoint.com%2Fsites%2FFall2022-DataManagementResearchReproducibilityinRWorkshopSeries%3Fe%3D1%253A99c0b51866974f3586f0dd1c75ab063f&data=05%7C01%7Crog1%40psu.edu%7C371e1fc92b244df7d5c508db258bea12%7C7cf48d453ddb4389a9c1c115526eb52e%7C0%7C0%7C638145055092430501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BprsgnyxRmecGkkzYSwF%2Bf%2FIF1Kfqh%2BjMfK%2FiORYDZk%3D&reserved=0)
       - 10-week workshop by [Cyverse](https://cyverse.org/foss)
@@ -29,8 +31,10 @@ Expected: ~~Briana Wham~~, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pea
     - [ReproducibiliTEA](https://reproducibilitea.org/)
     - [Open Science Alliance](https://openscialliance.github.io) Mon 9-10a EDT talks in March/April 2023
     - Events [calendar](https://calendar.google.com/calendar/u/0?cid=MzhjOTEwYTgzNDMzZDNjNzViNGZmMzA3MmE2NGM4NTIzMjQ2YWZiYTczNzg1NjA5MWY1YzYyMWE0MzBiOGE1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-    - Slack/Discord/Teams
+    - Slack/Discord/Teams channel
   - Center application (Nicole & Briana)
+  
+**Next meeting Wednesday, April 5, 2023 3:00 PM on https://psu.zoom.us/my/rogilmore**
 
 ## 2023-03-15 Wednesday, 3p
 
